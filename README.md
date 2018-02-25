@@ -10,3 +10,5 @@
 4) Большинство людей амбициозны и открыты к новым экспериментам, к успеху. 
 
 
+Ссылка на Excel 
+"https://docs.google.com/spreadsheets/d/12SeH-y9fyPMg-CzFLb_0u4fWTK2C8uWgnyKR3t3D2cI/edit#gid=276284855"
